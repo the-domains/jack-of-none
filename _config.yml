@@ -1,0 +1,14 @@
+layout_spectrum: 0.781330918893218
+typography_spectrum: 0.39879989717155695
+color:
+  brandStrength: 0.370745504507795
+  lightness: 0.6023576487787068
+  saturation: 0.5799082405865192
+  rhythmicContrast: 0.6729132127948105
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Jack of None
