@@ -6,9 +6,9 @@ color:
   saturation: 0.5799082405865192
   rhythmicContrast: 0.6729132127948105
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Jack of None
